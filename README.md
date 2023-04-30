@@ -12,7 +12,7 @@ Workout app
 - Know if your are fit ore not by mbi calculater 
 ## Technologies 
 - Kollin 
-- Room 
+- SQLight 
 - RecyclerView
 - Coroutines
 ## Screenshots
